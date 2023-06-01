@@ -1,6 +1,5 @@
 
-
-const Form = ({ setInputText, todos, setTodos, inputText, setStatus }) => {
+const Form = () => {
 
     return(
         <form>
